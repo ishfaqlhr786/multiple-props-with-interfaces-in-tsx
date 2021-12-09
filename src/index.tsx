@@ -2,11 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import {App} from './App';
+import {PassworsBYIjaz} from './PassworsBYIjaz'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <PassworsBYIjaz />
   </React.StrictMode>,
   document.getElementById('root')
 );
